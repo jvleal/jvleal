@@ -14,7 +14,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: jvleal
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+  dist/github-contribution-grid-snake.svg?color_snake=purple&color_dots=#000000,#111111,#222222,#333333,#444444
 
       - name: Push snake
         uses: peaceiris/actions-gh-pages@v4
