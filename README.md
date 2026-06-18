@@ -2,7 +2,7 @@
 
 - 🔭 estou na faculdade de engenharia de software
 - 🌱 estou estudando cibersegurança.
-- ⚡ pronome:lele/dele
+- ⚡ pronome:ele/dele
 
 <div align="center">
   <a href="https://github.com/jvleal">
